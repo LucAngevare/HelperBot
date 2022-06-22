@@ -14,7 +14,7 @@
   "dependencies": {
     "color-scheme": "^1.0.1",
     "discord.js": "^12.2.0",
-    "got": "^11.3.0",
+    "got": "^11.8.5",
     "hex-to-hsl": "^1.0.2",
     "ms": "^2.1.2",
     "pixabay-api": "^1.0.4",
